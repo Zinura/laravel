@@ -18,7 +18,7 @@ $exists = 0;
 
     </head>
     <body>
-    <h1>Test</h1>
+    <h1>Test Яштгк</h1>
         <div class="flex-center position-ref full-height">
             <div id="app">
                 <testcomp :exists="{{$exists}}"></testcomp>
